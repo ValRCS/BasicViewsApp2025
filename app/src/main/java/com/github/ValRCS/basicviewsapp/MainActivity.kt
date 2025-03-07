@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 //        TODO("not implemented")
 //        val tv : TextView  = findViewById(R.id.textView)
 //        tv.text = "You clicked something!"
-        result.text = "You clicked me!!!"
+        result.text = "You clicked meee!!!"
     }
 
 }
